@@ -11,19 +11,16 @@ body {
 
 main {
     max-width: 960px;
-    margin: 3rem auto;
+    margin: 3rem auto 1rem auto;
 }
-header {
-
-    display: flex;
+header {display: flex}
+footer {
+    padding: 1em 0;
+    text-align: center;
 }
-ul,h1,h2,h3,p {
-    margin: 0;
-}
+ul,h1,h2,h3,p {margin: 0}
 ul {list-style-type: circle}
-.avatar {
-    width: 20%;
-}
+.avatar {width: 20%}
 .avatar img {
     max-width: 100%;
     height: auto;
@@ -31,21 +28,17 @@ ul {list-style-type: circle}
 }
 .contacts {
     margin-left: 1.5rem;
-    border-left: 3px solid #ccc;
     padding-left: 1.5rem;
-}
-.contacts h1 {
-    margin: 0;
+    border-left: 3px solid #ccc;
 }
 .contacts ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;
 }
 h2 {
-    border-bottom: 2px solid #ccc;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
+    border-bottom: 2px solid #ccc;
 }
 
 h3 {
@@ -59,14 +52,12 @@ h3 .date {
     font-weight: 100;
 }
 code {
+    display: block;
     padding: 1rem;
     border-radius: 0.5rem;
     background-color: #eee;
-    display: block;
 }
-.item {
-    margin-bottom: 0.5rem;
-}
+.item {margin-bottom: 0.5rem}
 
 
 
