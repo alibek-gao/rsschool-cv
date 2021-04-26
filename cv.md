@@ -4,7 +4,8 @@ tg: aleekey | mob: +380953503774 | email: alibek.gao@gmail.com
 Self-taught full-stack web developer aiming to master frontend. 
 One year experience in building complex CRM with more than 250 tables in database.
 Current job stack: PHP, Codeigniter, MySQL, jQuery, Bootstrap, Git
-Familiar with Laravel and React.
+
+Familiar with Laravel and React. Basic knowledge of Vue.js
 
 ## Code example
 ```
