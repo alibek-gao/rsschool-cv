@@ -1,19 +1,24 @@
 # Kazhibekov Alibek
 tg: aleekey | mob: +380953503774 | email: alibek.gao@gmail.com
 
-Self-taught full-stack web developer aiming to master frontend. 
-One year experience in building complex CRM with more than 250 tables in database.
-Current job stack: PHP, Codeigniter, MySQL, jQuery, Bootstrap, Git
+Self-taught full-stack web developer with experience in building complex CRM with more than 250 tables in database.
 
-Familiar with Laravel and React. Basic knowledge of Vue.js
+Aiming to master front-end development.
 
-## Code example
-```
-console.log(this);
-```
+Current job stack: React.js, PHP, MySQL
+
+Familiar with react ecosystem libraries such as Material UI, React Router, Formik, Yup, CASL, React DnD, Storybook 
+
 
 ## Experience:
-#### Perfectum CRM (from 12.2019) 
+#### Acidbro (from 01.2021) 
+- Development, support and modification of CRM 
+- Separation front-end logic from back-end (SPA-API-Backend)
+- Migration from jQuery to React.js 
+- Building custom Material UI theme according to design in Figma 
+- Support legacy versions (jQuery, Bootstrap CSS) 
+
+#### Perfectum CRM (12.2019 - 01.2021) 
 - Development, support and modification of CRM. 
 - Legacy code refactoring and debugging 
 - Developed new modules for CRM such as Staff management, Chat with Pusher, Multicurrency etc.
@@ -33,6 +38,7 @@ Earned a scholarship. Not finished due to family circumstances.
 Graduated with honors
 
 ### Courses:
+- https://rs.school/js
 - https://reactmarathon.com/
 - https://www.udemy.com/course/facebook-clone-with-laravel-tdd-vue-tailwind-css
 - https://www.udemy.com/course/database-engines-crash-course
